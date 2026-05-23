@@ -5,6 +5,8 @@
 
 # User-specific files
 *.rsuser
+organize-report.json
+_staging_organize/
 *.suo
 *.user
 *.userosscache
